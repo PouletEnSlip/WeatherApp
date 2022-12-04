@@ -23,7 +23,7 @@ import cz.msebera.android.httpclient.Header;
 
 public class MainActivity extends AppCompatActivity {
     // Free API from OpenWeatherMap
-    final String APP_ID = "3045dd712ffe6e702e3245525ac7fa38";
+    final String APP_ID = " YOUR API KEY ";
     final String WEATHER_URL = "https://api.openweathermap.org/data/2.5/weather";
     final long MIN_TIME = 5000;
     final float MIN_DISTANCE = 1000;
